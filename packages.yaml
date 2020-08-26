@@ -1,0 +1,9 @@
+packages:
+  m4:
+    externals:
+    - spec: "m4"
+      prefix: /usr
+  cpio:
+    externals:
+    - spec: "cpio"
+      prefix: /usr
